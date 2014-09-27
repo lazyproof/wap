@@ -12,3 +12,10 @@ web app. go fast.
 * redis
 * elasticsearch
 * sidekiq - worker_bee
+
+
+```sh
+git clone https://github.com/lazyproof/wap
+orchid dev
+vagrant up
+```
